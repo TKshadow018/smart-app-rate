@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rating_dialog_experience">このアプリレビューしていただけませんか</string>
+    <string name="rating_dialog_maybe_later">たぶん後で</string>
+    <string name="rating_dialog_never">いいえ</string>
+    <string name="rating_dialog_feedback_title">フィードバック</string>
+    <string name="rating_dialog_submit">出す</string>
+    <string name="rating_dialog_cancel">キャンセル</string>
+    <string name="rating_dialog_suggestions">嫌い​​なものを教えてください。それに取り組みます！</string>
+</resources>
